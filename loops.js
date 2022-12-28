@@ -45,3 +45,5 @@ do {
     console.log(arr1[n])
     n++;
 } while (n<arr1.length);
+
+//sample code
